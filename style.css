@@ -1,0 +1,33 @@
+.box1{
+    color:wheat;
+    background-color:black ;
+    height: 300px;
+    width: 500px;
+    border-radius: 6px;
+    border:5px solid black;
+    margin:auto;
+
+} 
+ .box{
+    color: brown;
+    background-color: lightpink;
+    height: 200px;
+    width: 300px;
+    border: 5px solid whitesmoke ;
+}
+.box2{
+    color:brown;
+    background-color:pink ;
+    height: 200px;
+    width: 300px;
+    
+    border:5px solid wheat;
+}
+
+.heading{
+    
+    color:brown;
+    background-color: chartreuse;
+}
+
+
